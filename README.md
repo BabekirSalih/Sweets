@@ -6,7 +6,7 @@ communicates with customers and candy bakery
 
 Group
 
-Babiker al, Nour
-
+Babiker El, Nour
+Mubarak Idries
 
 Maryam Siddig
